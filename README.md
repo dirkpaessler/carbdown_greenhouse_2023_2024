@@ -11,6 +11,8 @@ Jens S. Hammes1, Jens Hartmann2, Johannes A. C. Barth3, Tobias Linke2, Ingrid Sm
 
 Email lead author jens.hammes@carbon-drawdown.de
 
+![Greenhouse Photo](https://images.squarespace-cdn.com/content/v1/5eb3d43c47c194291457f512/68fe2620-7e9c-488f-bb9f-4e573636b777/IMG_4652.JPG)
+
 Affiliations: 1 Carbon Drawdown Initiative, Fürth, 90766, Germany. 2 Department of Earth System Sciences, Universität Hamburg, Hamburg, 20146, Germany. 3 Department of Geography and Geosciences, GeoZentrum Nordbayern, Friedrich-Alexander- Universität Erlangen-Nürnberg (FAU), Erlangen, 91054, Germany. 4 Soil Chemistry Group, Wageningen University & Research, Wageningen, 6700, Netherlands. 5 MIGHTY (Mainz Isotope and Geochemistry Centre), Institute of Earth Sciences, Johannes Gutenberg University, Mainz, 55099, Germany. 6 School of Natural and Environmental Sciences, Newcastle University, Newcastle-upon-Tyne, NE1 7RU, UK. 7 Biobased Sustainability Engineering (SUSTAIN), Department of Bioscience Engineering, University of Antwerp, Antwerp, 2020, Belgium.
 
 Experiment was conducted by Carbon Drawdown Initiative, www.carbon-drawdown.de
