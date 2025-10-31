@@ -1,7 +1,9 @@
-#Carbdown Greenhouse Experiment 2023/2024 Dataset
+# Carbdown Greenhouse Experiment 2023/2024 Dataset
 
 Data for publication:
-Soil processes govern alkalinity and cation retention in enhanced weathering for carbon dioxide removal
+
+##Soil processes govern alkalinity and cation retention in enhanced weathering for carbon dioxide removal
+
 October 2025 - V1.0
 
 Jens S. Hammes1, Jens Hartmann2, Johannes A. C. Barth3, Tobias Linke2, Ingrid Smet1, Mathilde Hagens4, Philip A.E. Pogge von Strandmann5, Tom Reershemius6, Bruno Casimiro6, Arthur Vienne7, Anna A. Stoeckel1, Ralf Steffens1, Dirk Paessler1
@@ -12,13 +14,20 @@ Affiliations: 1 Carbon Drawdown Initiative, Fürth, 90766, Germany. 2 Department
 
 Experiment was conducted by Carbon Drawdown Initiative, www.carbon-drawdown.de
 
-More information is available in our blog:
+## More information is available in our blog:
 
-https://www.carbon-drawdown.de/blog/2022-11-15-project-carbdowns-next-step-we-will-set-up-a-large-scale-greenhouse-experiment-with-hundreds-of-pots?rq=greenhouse
-https://www.carbon-drawdown.de/blog/2023-3-16-setting-up-the-carbdown-greenhouse-experiment-2023-with-recipe-and-shopping-list
-https://www.carbon-drawdown.de/blog/2023-10-17-erw-experiment-ambience-turned-to-11-out-of-10
-https://www.carbon-drawdown.de/blog/2023-12-01-cdr-measurement-for-erw-via-alkalinity-in-leachate
-https://www.carbon-drawdown.de/blog/2024-04-11-insights-from-monitoring-400-weathering-experiments?rq=greenhouse
-https://www.carbon-drawdown.de/blog/2024-10-5-why-measuring-alkalinity-is-not-the-same-as-quantifying-hco
-https://www.carbon-drawdown.de/blog/2025-1-29-what-we-learned-from-the-worlds-largest-greenhouse-experiment
-https://www.carbon-drawdown.de/blog/2025-8-18-new-paper-evaluating-carbon-dynamics-for-enhanced-weathering?rq=greenhouse
++ https://www.carbon-drawdown.de/blog/2022-11-15-project-carbdowns-next-step-we-will-set-up-a-large-scale-greenhouse-experiment-with-hundreds-of-pots?rq=greenhouse
+
++ https://www.carbon-drawdown.de/blog/2023-3-16-setting-up-the-carbdown-greenhouse-experiment-2023-with-recipe-and-shopping-list
+
++ https://www.carbon-drawdown.de/blog/2023-10-17-erw-experiment-ambience-turned-to-11-out-of-10
+
++ https://www.carbon-drawdown.de/blog/2023-12-01-cdr-measurement-for-erw-via-alkalinity-in-leachate
+
++ https://www.carbon-drawdown.de/blog/2024-04-11-insights-from-monitoring-400-weathering-experiments?rq=greenhouse
+
++ https://www.carbon-drawdown.de/blog/2024-10-5-why-measuring-alkalinity-is-not-the-same-as-quantifying-hco
+
++ https://www.carbon-drawdown.de/blog/2025-1-29-what-we-learned-from-the-worlds-largest-greenhouse-experiment
+
++ https://www.carbon-drawdown.de/blog/2025-8-18-new-paper-evaluating-carbon-dynamics-for-enhanced-weathering?rq=greenhouse
