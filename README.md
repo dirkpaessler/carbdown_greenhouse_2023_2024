@@ -1,12 +1,11 @@
 # Carbdown Greenhouse Experiment 2023/2024 Dataset
+**Please check for updated data at https://github.com/dirkpaessler/carbdown_greenhouse_2023_2024**
 
 Data for publication:
 
 ## Soil processes govern alkalinity and cation retention in enhanced weathering for carbon dioxide removal
 
 October 2025 - V1.0
-
-**Please check for updated data at https://github.com/dirkpaessler/carbdown_greenhouse_2023_2024**
 
 Jens S. Hammes1, Jens Hartmann2, Johannes A. C. Barth3, Tobias Linke2, Ingrid Smet1, Mathilde Hagens4, Philip A.E. Pogge von Strandmann5, Tom Reershemius6, Bruno Casimiro6, Arthur Vienne7, Anna A. Stoeckel1, Ralf Steffens1, Dirk Paessler1
 
