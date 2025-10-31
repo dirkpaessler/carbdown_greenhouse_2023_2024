@@ -17,7 +17,7 @@ Experiment was conducted by Carbon Drawdown Initiative, www.carbon-drawdown.de
 
 ## More information is available in our blog:
 
-+ https://www.carbon-drawdown.de/blog/2022-11-15-project-carbdowns-next-step-we-will-set-up-a-large-scale-greenhouse-experiment-with-hundreds-of-pots?rq=greenhouse
++ https://www.carbon-drawdown.de/blog/2022-11-15-project-carbdowns-next-step-we-will-set-up-a-large-scale-greenhouse-experiment-with-hundreds-of-pots
 
 + https://www.carbon-drawdown.de/blog/2023-3-16-setting-up-the-carbdown-greenhouse-experiment-2023-with-recipe-and-shopping-list
 
@@ -25,10 +25,10 @@ Experiment was conducted by Carbon Drawdown Initiative, www.carbon-drawdown.de
 
 + https://www.carbon-drawdown.de/blog/2023-12-01-cdr-measurement-for-erw-via-alkalinity-in-leachate
 
-+ https://www.carbon-drawdown.de/blog/2024-04-11-insights-from-monitoring-400-weathering-experiments?rq=greenhouse
++ https://www.carbon-drawdown.de/blog/2024-04-11-insights-from-monitoring-400-weathering-experiments
 
 + https://www.carbon-drawdown.de/blog/2024-10-5-why-measuring-alkalinity-is-not-the-same-as-quantifying-hco
 
 + https://www.carbon-drawdown.de/blog/2025-1-29-what-we-learned-from-the-worlds-largest-greenhouse-experiment
 
-+ https://www.carbon-drawdown.de/blog/2025-8-18-new-paper-evaluating-carbon-dynamics-for-enhanced-weathering?rq=greenhouse
++ https://www.carbon-drawdown.de/blog/2025-8-18-new-paper-evaluating-carbon-dynamics-for-enhanced-weathering
